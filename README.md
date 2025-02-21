@@ -1,2 +1,5 @@
 # XSSZaafiyetliKodOrnegi
-XSS Zaafiyetli Kod Örneği ve Kodun Güvenli Hale Getirilmiş Hali
+
+script.js dosyası XSS saldırılarına karşı zafiyetli bir kod örneğidir.
+guvenliscript.js ise XSS saldırılarına karşı güvenli bir kod örneğidir.
+
