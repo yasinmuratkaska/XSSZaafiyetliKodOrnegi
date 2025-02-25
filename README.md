@@ -3,7 +3,7 @@
 script.js dosyası XSS saldırılarına karşı zafiyetli bir kod örneğidir. <br />
 guvenliscript.js ise XSS saldırılarına karşı güvenli bir kod örneğidir. <br /><br />
 
-Owasp Kategorisi: Injection -> Reflected XSS<br />
+Owasp Kategorisi: Injection -> DOM XSS<br />
 Atak Vektörü: Network<br />
 CVSS Skoru: 5.3 Medium<br />
 
